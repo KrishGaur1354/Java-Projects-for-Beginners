@@ -4,6 +4,12 @@
 
 ![Java-Projects](https://socialify.git.ci/KrishGaur1354/Java-Projects/image?font=KoHo&language=1&logo=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F05%2FJava-PNG-Clipart.png&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
+---
+
+<h3>Here, I will upload my Java Projects which are Useful especially if you're a Beginner or want code just to Practice.</h3>
+
+---
+
 ## Connect with me
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
