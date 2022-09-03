@@ -6,7 +6,7 @@
 
 ---
 
-<h3>Here, I will upload my Java Projects which are Useful especially if you're a Beginner or want code just to Practice.</h3>
+<h3>Here, I will upload my Java Projects which are Useful especially if you're a Beginner or want coding ideas to Practice.</h3>
 
 ---
 
