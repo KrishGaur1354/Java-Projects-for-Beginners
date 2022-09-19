@@ -11,7 +11,7 @@
 
 ---
 
-<h3><i>Inspired by GeeksforGeeks Java code on Inheritance. Check it out <a href="https://www.geeksforgeeks.org/inheritance-in-java/?ref=lbp">here</a></i></h3>
+<h3><i>Inspired by GeeksforGeeks Java code on Inheritance. Check it out <a href="https://www.geeksforgeeks.org/inheritance-in-java/?ref=lbp">here</a>.</i></h3>
 
 ---
 
