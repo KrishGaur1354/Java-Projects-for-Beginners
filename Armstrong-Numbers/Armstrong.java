@@ -1,5 +1,5 @@
 /*What is a Armstrong Number?*/
-/*Well in case of an Armstrong number of 3 digits, the sum of cubes of each digits is equal to the number itself*/
+/*Well in case of an Armstrong number of 3 digits, the sum of cubes of each digits is equal to the number itself.*/
 
 import java.util.Scanner;
 
