@@ -18,7 +18,7 @@
 <img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/File-Creator/Output-File.png" >
 
 <h1>Properties of File created</h1>
-<img src="" >
+<img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/File-Creator/Properties-Files.png" >
 
 ## Connect with me
   <a href="https://twitter.com/ThatOneKrish">
