@@ -12,7 +12,7 @@
 ---
 
 <h1>Code for File writer</h1>
-<img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/File-Creator/Code-File.png" >
+<img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/File-Writer/Code-Writer.png" >
 
 <h1>Output for File writer</h1>
 <img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/File-Creator/Output-File.png" >
