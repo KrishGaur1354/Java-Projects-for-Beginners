@@ -4,9 +4,9 @@ public class FizzBuzz {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter no. to view FizzBuzz : ");
-        int nums = input.nextInt();
+        int num = input.nextInt();
 
-        for (int i = 1; i <= nums; i++)
+        for (int i = 1; i <= num ; i++)
         {
             if (i%5 == 0 && i%3 == 0)
                 System.out.println("FizzBuzz");
