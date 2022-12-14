@@ -13,7 +13,7 @@ Use the left and right arrow keys to move the paddle and hit the ball to break t
 ### Clone the repository:
 
 ```git
-git clone https://github.com/USERNAME/brick-breaker.git
+git clone https://github.com/KrishGaur1354/Java-Projects-for-Beginners/tree/main/Wall-Breaker
 ```
 
 ### Compile the .java files:
